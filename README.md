@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Fuji#7894
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning C++
+- 📫 Reach me through discord Fuji#7894
